@@ -1,17 +1,8 @@
 # SA-MIPS-2
-MIPS2 Software Architecture project
+MIPS 2 Architecture Project
 
-- xorshift Wikipedia: https://en.wikipedia.org/wiki/Xorshift#Variations
+## Guessme program
 
-## IDeas
-
-- Simple xorshift
-- Complex xorshift
-- Basic Cryptographic algorithm
-- RSA?
-- IO for custom seed?
-
-After deliberation, we'll do a random number based guessing game.
-We will need:
-- IO capabilities
-- Use an xorshift random number generatro
+This program uses:
+- IO
+- Random number generator (modulus multiplication technique)
